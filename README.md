@@ -3,22 +3,18 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+A Trello like app made in Rails with the main core features:
 
-* Ruby version
+* Login
 
-* System dependencies
+* Add tasks
 
-* Configuration
+* Move tasks status
+
+* Update tasks
 
 * Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* delete tasks
 
 * ...
