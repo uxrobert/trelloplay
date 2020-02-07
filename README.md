@@ -15,4 +15,3 @@ A Trello like app made in Rails with the main core features:
 
 * delete tasks
 
-* ...
